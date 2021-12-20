@@ -1,1 +1,2 @@
-https://hubarssc.github.io/rsschool-cv/cv
+https://hubarssc.github.io/rsschool-cv/
+
